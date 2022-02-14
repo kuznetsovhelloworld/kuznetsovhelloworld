@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+
+### My name is Nikita, i am front-end dev.
+
+**My skills:**
+
+* JavaScript/React/Ajax/Webpack
+* HTML5/CSS/SCSS
+* GIT
+* ES6
+* Agile and Scrum
+* Ability to Work in a Team
+
+📫 How to reach me: [telegram](https://t.me/MTBCBYR)
 
 <!--
 **kuznetsovhelloworld/kuznetsovhelloworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
